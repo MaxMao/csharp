@@ -1,0 +1,6 @@
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\work\Code\JMao\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
